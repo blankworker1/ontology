@@ -1,7 +1,5 @@
 # Listen to Yourself: The Grammar of the Trick
 
-Oct 15, 2026 · @Carl
-
 The walls of the Trick are built by those who perform it. Most of that performance is not done with the hands. It is spoken.
 
 A cast does not improvise. It has lines, and the lines are written in a grammar so familiar we no longer hear it. A small word that turns a choice into a cause. A pronoun that hands the responsibility to somebody else. A verb that makes an agreement sound like a law of nature. These are not lies. They are artifices: made things, crafted to work without anyone noticing them.
