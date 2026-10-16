@@ -1,7 +1,5 @@
 # Perpetual Growth on a Finite Planet
 
-Sep 30, 2026 · @Carl
-
 ## Impossible, and taken for granted
 
 Perpetual economic growth on a finite planet is impossible. It is also the one assumption almost every economic institution treats as beyond question.
