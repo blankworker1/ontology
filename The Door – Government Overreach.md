@@ -100,3 +100,6 @@ The real price is human-sized. Some inconvenience. A smaller circle. A few thing
 None of this requires a declaration. It requires a pause. When the call comes, recognise that you have a choice. Do not answer by reflex. Sign nothing for as long as you can. Say no politely, not with disdain, because accepting would be unbecoming of a person honest with themselves.
 
 The state never gave you your life. It cannot ask for it back. It can only take it, and it can only take what it can find.
+
+[The Claim Index](https://claude.ai/artifact/DwVf5gHoabg52TLAmGCHq3)
+
