@@ -1,7 +1,5 @@
 # Nothing. Really. Matters.
 
-Oct 15, 2026 · @Carl
-
 ## I. Necessary Fiction
 
 Belief is the operating system of the modern world.
@@ -76,7 +74,7 @@ Who built them? In the film, not the one who believes. Truman is the believer. T
 
 And what does recognition do? Truman sees the seams, walks to the edge of the set, and leaves through the door. The show goes on for its audience. Recognition is not a process - it has no steps and needs no one else. It is the end of being tricked, for one person, now.
 
-The Trick remains until the last person  stops playing their part.
+The Trick remains until the last person stops playing their part.
 
 ## IX. Nothing. Really. Matters.
 
