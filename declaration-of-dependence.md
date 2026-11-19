@@ -1,6 +1,5 @@
 # A Declaration of Dependence
 
-**Author:** Carl
 **Version:** 0.2 (draft) — 2026-11-19
 **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Fork it, adapt it, translate it. Credit the source and keep your version open under the same terms.
 
