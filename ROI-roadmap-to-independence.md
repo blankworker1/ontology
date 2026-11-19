@@ -26,7 +26,7 @@ Passive participation is not automatically a deficiency. A passive participant w
 
 ## The structure at a glance
 
-![Full structure of the Roadmap to Independence: individual stages 1–3, collective stages 4–5.5, the fork at stage 6 into elite defection (6a) or obsolescence (6b), converging on institutionalized reversibility (stage 7)](roadmap-diagram.svg)
+![Full structure of the Roadmap to Independence: individual stages 1–3, collective stages 4–5.5, the fork at stage 6 into elite defection (6a) or obsolescence (6b), converging on institutionalized reversibility (stage 7)](ROI-roadmap-diagram.svg)
 
 ## The stages
 
