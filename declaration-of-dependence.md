@@ -105,11 +105,11 @@ This declaration says it should be corrected by the network, so it can be. Open 
 
 ## Related
 
-- *Roadmap to Independence* — read the two together: independence from the centre requires dependence on each other.
+- *ROI Roadmap to Independence* — read the two together: independence from the centre requires dependence on each other.
 - *The Ledger Has Always Been the Frontline* — on legibility, naming, and the ledger.
 - *Rebuilding Reciprocity* / *Oikonomos* / *Slow Work* — the household economics of tending.
 - *Germline* — on outlasting centralised systems.
 
 ---
 
-© 2026 Carl. Licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+© 2026  Blankworker1. Licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
