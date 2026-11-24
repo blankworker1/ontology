@@ -1,6 +1,5 @@
 # Captain or Passenger: Repositioning Bitcoin
 
-Carl · 24 November 2026
 
 **Barter and gift. Local footpath. You walk.**
 
